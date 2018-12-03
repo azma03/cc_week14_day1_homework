@@ -1,16 +1,16 @@
 import React, {Component} from 'react';
 
 class Footer extends Component {
-  constructor(props){
-    super(props);
-
-    this.displayIMDBCalender = this.displayIMDBCalender.bind(this);
-  }
-
-  displayIMDBCalender(){
-    debugger;
-     // window.location.hash = this.props.imdbCalender;
-  }
+  // constructor(props){
+  //   super(props);
+  //
+  //   this.displayIMDBCalender = this.displayIMDBCalender.bind(this);
+  // }
+  //
+  // displayIMDBCalender(){
+  //   debugger;
+  //    // window.location.hash = this.props.imdbCalender;
+  // }
 
   render(){
     return (
